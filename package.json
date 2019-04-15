@@ -1,6 +1,6 @@
 {
   "name": "sfy-testnpm",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "sss",
   "main": "demo.js",
   "types": "demo.d.ts",
@@ -12,7 +12,7 @@
   ],
   "repository": {
   "type": "git",
-  "url": "git@github.com:ynqc/toast.git"
+  "url": "git@github.com:qq793931289/sfy-testnpm.git"
 }
   "author": "Bobby",
   "license": "ISC"
