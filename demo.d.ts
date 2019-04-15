@@ -15,3 +15,8 @@ export interface CameraControlPointEvent {
     context: number;
 }
 
+export interface pop {
+    item: string;
+    context: number;
+}
+
