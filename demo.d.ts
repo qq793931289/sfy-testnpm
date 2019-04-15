@@ -10,3 +10,8 @@ export enum RotationControlPointType {
     Background = 'B',
 }
 
+export interface CameraControlPointEvent {
+    item: string;
+    context: number;
+}
+
