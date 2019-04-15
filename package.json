@@ -11,9 +11,9 @@
     "test"
   ],
   "repository": {
-  "type": "git",
-  "url": "git@github.com:qq793931289/sfy-testnpm.git"
-}
+    "type": "git",
+    "url": "git@github.com:qq793931289/sfy-testnpm.git"
+  },
   "author": "Bobby",
   "license": "ISC"
 }
